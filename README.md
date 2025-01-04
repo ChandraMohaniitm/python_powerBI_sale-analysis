@@ -54,4 +54,7 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
 ## Dashboard 
 - <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/Screenshot%202025-01-02%20175609.png">dashboard image</a>
 
+## Python Code
+- <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/bypy.ipynb"></a>
+
 ## Final Conclusion
