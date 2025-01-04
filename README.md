@@ -28,8 +28,8 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
 - Derived delivery_days column using “conditional column” with dax formula =([ship_date]-[order_date]).
 - joined the three(all) tables using drag-drop options.
 - 
-##Dashboard 
-- <a href="">dashboard image</a>
+## Dashboard 
+- <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/Screenshot%202025-01-02%20175609.png">dashboard image</a>
 
 ## Project Insight
 ![Screenshot 2025-01-02 175609](https://github.com/user-attachments/assets/88a812cc-816f-4dbf-9e12-2ff5970d233d)
