@@ -31,7 +31,8 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
 
 ## Project Insight
 - Power BI
-![Screenshot 2025-01-02 175609](https://github.com/user-attachments/assets/88a812cc-816f-4dbf-9e12-2ff5970d233d)
+![Screenshot 2025-01-05 000618](https://github.com/user-attachments/assets/8c682d11-a9cc-4ae7-8112-314e77cad4c5)
+
 
 ![Screenshot 2025-01-05 000741](https://github.com/user-attachments/assets/b5515b5d-151f-4d42-a9e2-4d009d9aaaf5)
 
