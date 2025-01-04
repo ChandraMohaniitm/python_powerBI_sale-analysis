@@ -3,7 +3,7 @@
 ## Sales Data Analysis (EDA with Python) and (Interactive Dashboard Creation Using Power BI)
 
 ## Project Objective
-The company wants to create an annual sales report for 2012,2013,2014.So that,the owner of the company can understand their customer and grow more sales in future.
+The company wants to create an annual sales report for 2012,2013,2014 and 2015.So that,the owner of the company can understand their customer and grow more sales in future.
 
 ## Dataset Used
 - <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/global_superstore_2016.xlsx">view dataset</a>
@@ -46,6 +46,7 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
   ![p4](https://github.com/user-attachments/assets/9d315646-e003-4520-9bb5-4b9b88bcb44d)
   ![p5](https://github.com/user-attachments/assets/a97e8f73-cbec-4020-8a7d-1f4b0c3b15c9)
   ![p6](https://github.com/user-attachments/assets/ddc983df-6b0a-458d-9742-9f5cec621ec3)
+  <br>
   ![p1](https://github.com/user-attachments/assets/40e772bd-33a4-4360-97b7-b63ba9f52239)
 
 
