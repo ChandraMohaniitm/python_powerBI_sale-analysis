@@ -27,11 +27,29 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
 - Extracted year from date column using “mange column” with dax formula =Date.Year([order_date]).
 - Derived delivery_days column using “conditional column” with dax formula =([ship_date]-[order_date]).
 - joined the three(all) tables using drag-drop options.
-- 
-## Dashboard 
-- <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/Screenshot%202025-01-02%20175609.png">dashboard image</a>
+  
 
 ## Project Insight
+- Power BI
 ![Screenshot 2025-01-02 175609](https://github.com/user-attachments/assets/88a812cc-816f-4dbf-9e12-2ff5970d233d)
+
+![Screenshot 2025-01-05 000741](https://github.com/user-attachments/assets/b5515b5d-151f-4d42-a9e2-4d009d9aaaf5)
+- Python
+  ![p2](https://github.com/user-attachments/assets/d69e906e-c8f3-460a-bda6-0b2564e399a8)
+  ![p3](https://github.com/user-attachments/assets/31894a86-3dc6-41cf-905b-3b1635b28f2e)
+  ![p4](https://github.com/user-attachments/assets/9d315646-e003-4520-9bb5-4b9b88bcb44d)
+  ![p5](https://github.com/user-attachments/assets/a97e8f73-cbec-4020-8a7d-1f4b0c3b15c9)
+  ![p6](https://github.com/user-attachments/assets/ddc983df-6b0a-458d-9742-9f5cec621ec3)
+  ![p1](https://github.com/user-attachments/assets/40e772bd-33a4-4360-97b7-b63ba9f52239)
+
+
+
+
+
+
+
+
+## Dashboard 
+- <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/Screenshot%202025-01-02%20175609.png">dashboard image</a>
 
 ## Final Conclusion
