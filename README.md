@@ -18,7 +18,8 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
 - which are the countries where we made high sale
 - which are the top markets based on sale
 - find top segment where we made high sales
-- Dashboard href img only
+- Find the states of the country with high sale and most sold categories.
+
 
 ## Process
 - Loaded Data in power bi and opened Power query editor.
@@ -46,16 +47,20 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
   ![p1](https://github.com/user-attachments/assets/40e772bd-33a4-4360-97b7-b63ba9f52239)
 
 
-
-
-
-
-
+- After analysis of data we can see that:
+- We have made high sales in the western Europe,Central America,Oceania and Southeastern Asia Region.
+- United States,Australia ,France,India and China these are the country where we have made high sale.
+- Florida,Indiana and Washington are top state of united state where we made high sale and these are top selling category technology and office supply.
+- South Australia,New south wales and Queensland top Australian states with high sale contribution and office supply,furnicher,techonology top selling category.
 
 ## Dashboard 
 - <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/Screenshot%202025-01-02%20175609.png">dashboard image</a>
 
 ## Python Code
 - <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/bypy.ipynb"></a>
+
+## Conclusion
+- To get more profit and grow our business we should advertise our high selling products(category).we could scale our number of shopes and products in that country and states of that country where we have made high sales and we should provide additional discount on that top selling products for customers who spend more amount.
+
 
 ## Final Conclusion
