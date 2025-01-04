@@ -1,6 +1,6 @@
 # python_powerBI_sale-analysis
 
-## Sales Data Analysis(Interactive Dashboard Creation Using Power BI)
+## Sales Data Analysis (EDA with Python) and (Interactive Dashboard Creation Using Power BI)
 
 ## Project Objective
 The company wants to create an annual sales report for 2012,2013,2014.So that,the owner of the company can understand their customer and grow more sales in future.
@@ -28,10 +28,12 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
 - Extracted year from date column using “mange column” with dax formula =Date.Year([order_date]).
 - Derived delivery_days column using “conditional column” with dax formula =([ship_date]-[order_date]).
 - joined the three(all) tables using drag-drop options.
+- I have performed some EDA on data using Python.
   
 
 ## Project Insight
 - Power BI
+
 ![Screenshot 2025-01-02 175609](https://github.com/user-attachments/assets/bcd10dca-ae29-451b-8c40-55423210c5c4)
 
 
@@ -50,7 +52,7 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
 - After analysis of data we can see that:
 - We have made high sales in the western Europe,Central America,Oceania and Southeastern Asia Region.
 - United States,Australia ,France,India and China these are the country where we have made high sale.
-- Florida,Indiana and Washington are top state of united state where we made high sale and these are top selling category technology and office supply.
+- Florida,Indiana and Washington are top state of united state where we made high sale and these are top selling category   technology and office supply.
 - South Australia,New south wales and Queensland top Australian states with high sale contribution and office supply,furnicher,techonology top selling category.
 
 ## Dashboard 
