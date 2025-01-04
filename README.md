@@ -34,7 +34,9 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
 ![Screenshot 2025-01-02 175609](https://github.com/user-attachments/assets/88a812cc-816f-4dbf-9e12-2ff5970d233d)
 
 ![Screenshot 2025-01-05 000741](https://github.com/user-attachments/assets/b5515b5d-151f-4d42-a9e2-4d009d9aaaf5)
+
 - Python
+  
   ![p2](https://github.com/user-attachments/assets/d69e906e-c8f3-460a-bda6-0b2564e399a8)
   ![p3](https://github.com/user-attachments/assets/31894a86-3dc6-41cf-905b-3b1635b28f2e)
   ![p4](https://github.com/user-attachments/assets/9d315646-e003-4520-9bb5-4b9b88bcb44d)
