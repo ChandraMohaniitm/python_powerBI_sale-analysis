@@ -59,8 +59,6 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
 ## Python Code
 - <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/bypy.ipynb">view code</a>
 
-## Conclusion
-- To get more profit and grow our business we should advertise our high selling products(category).we could scale our number of shopes and products in that country and states of that country where we have made high sales and we should provide additional discount on that top selling products for customers who spend more amount.
-
 
 ## Final Conclusion
+- To get more profit and grow our business we should advertise our high selling products(category).we could scale our number of shopes and products in that country and states of that country where we have made high sales and we should provide additional discount on that top selling products for customers who spend more amount.
