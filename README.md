@@ -6,7 +6,7 @@
 The company wants to create an annual sales report for 2012,2013,2014.So that,the owner of the company can understand their customer and grow more sales in future.
 
 ## Dataset Used
-<a href="">view dataset</a>
+- <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/global_superstore_2016.xlsx">view dataset</a>
 
 ## Questions (KPIs)
 - What is the Total Sales over all year
