@@ -32,7 +32,7 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
 
 ## Project Insight
 - Power BI
-![Screenshot 2025-01-05 000618](https://github.com/user-attachments/assets/8c682d11-a9cc-4ae7-8112-314e77cad4c5)
+![Screenshot 2025-01-02 175609](https://github.com/user-attachments/assets/bcd10dca-ae29-451b-8c40-55423210c5c4)
 
 
 ![Screenshot 2025-01-05 000741](https://github.com/user-attachments/assets/b5515b5d-151f-4d42-a9e2-4d009d9aaaf5)
@@ -57,7 +57,7 @@ The company wants to create an annual sales report for 2012,2013,2014.So that,th
 - <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/Screenshot%202025-01-02%20175609.png">dashboard image</a>
 
 ## Python Code
-- <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/bypy.ipynb"></a>
+- <a href="https://github.com/ChandraMohaniitm/python_powerBI_sale-analysis/blob/main/bypy.ipynb">view code</a>
 
 ## Conclusion
 - To get more profit and grow our business we should advertise our high selling products(category).we could scale our number of shopes and products in that country and states of that country where we have made high sales and we should provide additional discount on that top selling products for customers who spend more amount.
